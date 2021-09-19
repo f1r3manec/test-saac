@@ -1,0 +1,11 @@
+.onHoverRow {
+    
+    transition: background-color .5s !important ;
+}
+.onHoverRow:hover {
+    background-color: powderblue !important;
+  }
+  
+
+
+

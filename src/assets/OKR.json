@@ -1,0 +1,67 @@
+[
+  {
+    "id": "obj001",
+    "objetive": "Incrementar las ventas del producto estrella",
+    "period": "Q3-2022",
+    "date": {
+      "start": "2022-09-01",
+      "end": "2020-11-30"
+    },
+    "responsable": {
+      "name": "QP",
+      "urlImage": ""
+    },
+    "keyResults": [
+      {
+        "id": "krs001",
+        "name": "Obtener un crecimiento del 50% en la página web.",
+        "period": "Q3-2022",
+        "date": {
+          "start": "2022-09-01",
+          "end": "2020-11-30"
+        },
+        "responsable": {
+          "name": "QP",
+          "urlImage": ""
+        },
+        "complete": 10,
+        "tasks": [
+          {
+            "id": "tsk001",
+            "name": "Mejorar el SEO de la página web."
+          }
+        ]
+      },
+      {
+        "id": "krs002",
+        "name": "Realizar cambio del Packaging de 2/4 presentaciones",
+        "period": "Q3-2022",
+        "date": {
+          "start": "2022-09-01",
+          "end": "2020-11-30"
+        },
+        "responsable": {
+          "name": "QP",
+          "urlImage": ""
+        },
+        "complete": 0,
+        "tasks": []
+      },
+      {
+        "id": "krs003",
+        "name": "Crear campaña de marketing",
+        "period": "Q3-2022",
+        "date": {
+          "start": "2022-09-01",
+          "end": "2020-11-30"
+        },
+        "responsable": {
+          "name": "QP",
+          "urlImage": ""
+        },
+        "complete": 0,
+        "tasks": []
+      }
+    ]
+  }
+]
